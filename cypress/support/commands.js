@@ -26,5 +26,4 @@
 
 Cypress.Screenshot.defaults({
     overwrite: true,
-  })
-  
+})

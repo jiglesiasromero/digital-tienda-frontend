@@ -11,7 +11,7 @@ describe('digital tienda frontend QA challenge', () => {
 
         cy.contains('Wikipedia').click()
 
-        cy.screenshot()
+        cy.screenshot('screenshot-wikipedia')
     })
     
 })
